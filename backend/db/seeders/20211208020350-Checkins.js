@@ -35,6 +35,7 @@ module.exports = {
         rating: 5,
         wine_id: 2,
         user_id: 3,
+        location: "Milford Mall"
       },
       {
         description:
@@ -44,6 +45,7 @@ module.exports = {
         rating: 5,
         wine_id: 3,
         user_id: 3,
+        location: "Trumbull Mall"
       },
       {
         description: "This is exquisite!!",
